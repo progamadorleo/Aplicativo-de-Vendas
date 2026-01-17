@@ -1,0 +1,63 @@
+{
+  "expo": {
+    "name": "Vendas Agricultura Familiar",
+    "slug": "UFGvendas",
+    "version": "1.0.1",
+    "orientation": "portrait",
+    "icon": "./assets/app_icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/app_icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.codifica.ufgvendas",
+      "infoPlist": {
+        "UIBackgroundModes": [
+          "background-processing"
+        ]
+      }
+    },
+    "android": {
+      "package": "com.codifica.ufgvendas",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/app_icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "permissions": [
+        "ACCESS_NETWORK_STATE",
+        "INTERNET",
+        "VIBRATE",
+        "RECEIVE_BOOT_COMPLETED",
+        "WAKE_LOCK",
+        "SCHEDULE_EXACT_ALARM",
+        "USE_EXACT_ALARM",
+        "POST_NOTIFICATIONS"
+      ]
+    },
+    "web": {
+      "favicon": "./assets/app_icon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "68525e11-897b-4e86-97c9-ce5bae572231"
+      }
+    },
+    "plugins": [
+      [
+        "expo-notifications",
+        {
+          "icon": "./assets/app_icon.png",
+          "color": "#65A30D",
+          "defaultChannel": "vendas-sync"
+        }
+      ],
+      "expo-asset"
+    ],
+    "owner": "apolodelas"
+  }
+}
