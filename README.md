@@ -1,5 +1,16 @@
 # 📱 Aplicativo de Vendas
 
+<p align="center">
+  <img src="https://i.imgur.com/qVGWva6.png" alt="Preview do Aplicativo" width="300" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Mobile-App-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Portf%C3%B3lio-success?style=for-the-badge" />
+</p>
+
 Aplicativo mobile desenvolvido para gestão de vendas em ambiente empresarial, com foco em mobilidade, confiabilidade e funcionamento offline. O projeto foi criado sob demanda para uma empresa real, que **não autorizou o uso do nome**, porém **autorizou a publicação do código-fonte** para fins de portfólio e demonstração técnica.
 
 ---
@@ -15,7 +26,7 @@ Aplicativo mobile desenvolvido para gestão de vendas em ambiente empresarial, c
 
 ## 🧠 Sobre o Projeto
 
-O aplicativo permite que usuários realizem **login em suas respectivas TENDAS**, tendo acesso apenas aos dados relacionados ao seu ambiente de trabalho. A partir disso, é possível **registrar vendas de forma simples e rápida**, mesmo em locais sem conexão com a internet.
+O aplicativo permite que usuários realizem **login em suas respectivas Tendas Individuais**, tendo acesso apenas aos dados relacionados ao seu ambiente de trabalho. A partir disso, é possível **registrar vendas de forma simples e rápida**, mesmo em locais sem conexão com a internet.
 
 Um dos principais diferenciais do projeto é o **suporte ao modo offline**, onde as vendas são armazenadas localmente e **sincronizadas automaticamente** assim que a conexão com a internet é restabelecida.
 
@@ -31,7 +42,7 @@ Na versão original (privada), o aplicativo se conecta a uma **API real**, respo
 
 ## 📦 Funcionalidades
 
-- Login de usuários por Tenda
+- Login de usuários por Tenda Individual
 - Registro de vendas
 - Funcionamento com e sem internet
 - Sincronização automática de dados
