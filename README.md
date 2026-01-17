@@ -1,7 +1,7 @@
 # 📱 Aplicativo de Vendas
 
 <p align="center">
-  <img src="https://i.imgur.com/qVGWva6.png" alt="Preview do Aplicativo" width="300" />
+  <img src="https://i.imgur.com/qVGWva6.png" alt="Preview do Aplicativo" width="1200" />
 </p>
 
 <p align="center">
