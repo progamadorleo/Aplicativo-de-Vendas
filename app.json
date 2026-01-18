@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Vendas Agricultura Familiar",
-    "slug": "UFGvendas",
+    "slug": "APPVENDAS",
     "version": "1.0.1",
     "orientation": "portrait",
     "icon": "./assets/app_icon.png",
@@ -14,7 +14,7 @@
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.codifica.ufgvendas",
+      "bundleIdentifier": "com.codifica.APPVENDAS",
       "infoPlist": {
         "UIBackgroundModes": [
           "background-processing"
@@ -22,7 +22,7 @@
       }
     },
     "android": {
-      "package": "com.codifica.ufgvendas",
+      "package": "com.codifica.APPVENDAS",
       "adaptiveIcon": {
         "foregroundImage": "./assets/app_icon.png",
         "backgroundColor": "#ffffff"
